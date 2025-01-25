@@ -1,2 +1,2 @@
-# NetLawSGL
+NetLawSGL
 NetLaw SGL
